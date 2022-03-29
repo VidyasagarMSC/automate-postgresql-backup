@@ -11,7 +11,7 @@ else:
     postgres_service_url = os.environ.get("POSTGRES_SERVICE_URL")
 
 # Create an IAM authenticator.
-authenticator = IAMAuthenticator(os.environ.get("IBM_API_KEY"))
+authenticator = IAMAuthenticator(os.environ.get("IBM_CLOUD_API_KEY"))
 
 # Construct the service client.
 cloud_databases_service = CloudDatabasesV5(authenticator=authenticator)
