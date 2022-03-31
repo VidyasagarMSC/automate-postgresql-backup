@@ -5,7 +5,9 @@ Learn how to build a container image from source code and use the image to sched
 ![Architecture Diagram](images/postgres_backup_code_engine.drawio.png)
 
 
-> Blog post list coming soon
+## Instructions 
+
+Follow the steps in the [blog post here](https://www.ibm.com/cloud/blog/automate-postgresql-backups-with-ibm-cloud-code-engine)
 
 ## To test locally
 
