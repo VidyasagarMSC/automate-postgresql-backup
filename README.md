@@ -21,7 +21,7 @@ Follow the steps in the [blog post here](https://www.ibm.com/cloud/blog/automate
   
    ```sh
    IBM_CLOUD_API_KEY="<IBM CLOUD API KEY>"
-   POSTGRES_DEPLOYMENT_ID="<POSTGRESQL service CRN (DEPLOYMENT ID)
+   POSTGRES_DEPLOYMENT_ID="<POSTGRESQL service CRN (DEPLOYMENT ID)>"
    ```
 3. Run the below command 
    ```sh
